@@ -50,12 +50,6 @@
   @yield('content')
   <!--Navbar-->
 
-  <!--Footer-->
-  <footer class="text-center text-dark mt-5">
-    <p>Nabila Aulia Rahmah</p>
-  </footer>
-  <!--Footer-->
-
 </body>
 
 </html>
